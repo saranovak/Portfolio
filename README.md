@@ -1,5 +1,5 @@
 # Sara Novak
-## Data Anlaytic
+## Data Anlayst
 
 #### Technical Skills: Excell, SQL, Tablau, R, Python, Power BI
 #### Soft skills: Communication, Curiosity, Storytelling, Critical Thinking, Team Player
