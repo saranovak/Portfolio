@@ -5,15 +5,11 @@
 #### Soft skills: Communication, Curiosity, Storytelling, Critical Thinking, Team Player
 
 ### Education
-- Bachelor of Management | Faculty of Economic, University "Kliment Ohridski", Prilep, North Macedonia
-
-  09.2017-02.2022
+- Bachelor of Management | Faculty of Economic, University "Kliment Ohridski", Prilep, North Macedonia  09.2017-02.2022
   
 ### Work Experience
 
-- Business Analysis Trainee | Hands-on Training Program by Kreativstrom
-  
-  07.2023- Present
+- Business Analysis Trainee | Hands-on Training Program by Kreativstrom  07.2023- Present
   
     Company preformance analysus using BACCMT model
 
@@ -24,9 +20,7 @@
     Utilizing Porter's Value Chain for strategic insights
 
   
-- Data Analyst | Hercul, E-commerce, Slovenia
-  
-  12.2022- Present
+- Data Analyst | Hercul, E-commerce, Slovenia  12.2022- Present
   
     Analyzing customer data and generating insights to enhance customer engagement
   
@@ -39,9 +33,7 @@
     Collaborate with teams to identify key growth opportunities
   
 
-- Sales Internship | Sano Kompani DOOEL, Bitola, North Macedonia
-  
-  06.2018-09.2018
+- Sales Internship | Sano Kompani DOOEL, Bitola, North Macedonia  06.2018-09.2018
   
     Worked with sales representatives
   
@@ -56,7 +48,7 @@
 
 #### Stock Market Analysis
 
-- In this project, I have utilized my programming skills in Python to download, analyze, and explore the stock market data. I have also applied time series forecasting techniques to make predictions about future market trends. This project showcases my proficiency in data analysis and Python programming, providing valuable insights for investment decision-making and financial planning
+-In this project, I have utilized my programming skills in Python to download, analyze, and explore the stock market data. I have also applied time series forecasting techniques to make predictions about future market trends. This project showcases my proficiency in data analysis and Python programming, providing valuable insights for investment decision-making and financial planning
   
 [Project View]
   
@@ -94,7 +86,6 @@ Project description:
 
 
 Project description:
-
 - This project focused on analyzing the content performance of Social Buzz, a client, to identify the top 5 content categories with the highest popularity. The data was cleaned and modeled in Excel, and the results were visualized in a PowerPoint presentation. The analysis revealed that Animal, Science, Technology, Culture, and Healthy Eating were the top 5 categories with the largest popularity based on reaction scores. Photos were the most popular content type, and May and January had the highest content volume. The findings provided valuable insights for the client to optimize their content strategy and make data-driven decisions.
 
 [Project View](https://github.com/saranovak/Accenture-Internship)
@@ -108,7 +99,7 @@ Project description:
 
 Project description:
 
--The Sprocket Central Pty Ltd data analysis project involved three main phases: Data Exploration, Model Development, and Interpretation. A comprehensive data quality review was conducted to ensure data readiness for analysis. A customer targeting approach was developed to recommend the most valuable customers from a new 1000 customer list. Additionally, a tailored dashboard was created to present the data summary and analysis results effectively. The project provided valuable insights into customer trends, high-value segments, and proposed marketing and growth strategies for Sprocket Central Pty Ltd.
+- The Sprocket Central Pty Ltd data analysis project involved three main phases: Data Exploration, Model Development, and Interpretation. A comprehensive data quality review was conducted to ensure data readiness for analysis. A customer targeting approach was developed to recommend the most valuable customers from a new 1000 customer list. Additionally, a tailored dashboard was created to present the data summary and analysis results effectively. The project provided valuable insights into customer trends, high-value segments, and proposed marketing and growth strategies for Sprocket Central Pty Ltd.
 
 [Project View](https://github.com/saranovak/KPMG-Internship)
 
