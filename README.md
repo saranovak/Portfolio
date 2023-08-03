@@ -1,13 +1,12 @@
-# Sara Novak
-## Data Anlayst
+# Data Anlayst
 
 #### Technical Skills: Excell, SQL, Tablau, R, Python, Power BI
 #### Soft skills: Communication, Curiosity, Storytelling, Critical Thinking, Team Player
 
-### Education
+## Education
 - Bachelor of Management | Faculty of Economic, University "Kliment Ohridski", Prilep, North Macedonia  09.2017-02.2022
   
-### Work Experience
+## Work Experience
 
 - Business Analysis Trainee | Hands-on Training Program by Kreativstrom  07.2023- Present
   
@@ -44,7 +43,7 @@
 
 
   
-### Projects
+## Projects
 
 #### Stock Market Analysis
 
@@ -132,7 +131,6 @@ Project description:
 [Certificate](https://coursera.org/share/ea4857bd4c340f72f386ccbf1030195c)
 
 
-
 Project description:
 
 - This repository contained the analysis of FitBit Fitness Tracker data for Bellabeat, a high-tech health-focused smart products company. The analysis aimed to identify trends in the usage of non-Bellabeat smart devices and provide insights to enhance Bellabeat's marketing strategy. The data was organized into 18 CSV documents and analyzed using R programming language. The analysis focused on categorizing users based on activity levels and provided recommendations such as sending notifications to encourage users to reach their daily step goals and integrating fitness and sleep tracking features. By implementing these recommendations, Bellabeat can improve user engagement and offer a comprehensive health and wellness experience to its customers.
@@ -140,6 +138,6 @@ Project description:
 [Project View](https://github.com/saranovak/Bellabeat-Data-Analysis)
 
 
-### Publications
+## Publications
 
 [Data Analytics Blog](https://medium.com/@saranovak011)
