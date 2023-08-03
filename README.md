@@ -34,14 +34,13 @@
   
 
 - Sales Internship | Sano Kompani DOOEL, Bitola, North Macedonia  06.2018-09.2018
-  
-    Worked with sales representatives
-  
+    
+    Assist the sales team in daily activities and with product launch information
+
     Conduct research to find potential customers and create promotion plans
   
-    Analyzed reports from the stores and presenting
+    Analyzed reports from the stores and present
   
-    Assist the sales team in daily activities, product launch information
   
   
 ### Projects
